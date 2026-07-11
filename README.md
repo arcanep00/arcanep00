@@ -62,6 +62,26 @@ Git • GitHub • Docker • Postman
 
 </p>
 
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanep00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanep00&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arcanep00&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 Email:
