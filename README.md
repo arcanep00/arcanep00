@@ -103,3 +103,15 @@ Git • GitHub • Docker • Postman
 Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Design
 
 </p>
+
+---
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/arcanep00/arcanep00/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
