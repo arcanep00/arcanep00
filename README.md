@@ -88,14 +88,10 @@ Git • GitHub • Docker • Postman
 
 ---
 
-<p align="center">
-
-⭐ If you like my work, consider starring my repositories.
-
-</p>
+---
 
 <p align="center">
 
-Made with ❤️ by Abhinav Pandey
+Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Design
 
 </p>
