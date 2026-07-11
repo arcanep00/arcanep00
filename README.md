@@ -68,27 +68,34 @@ Git • GitHub • Docker • Postman
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanep00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanep00&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</p>
-
-<p align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arcanep00&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+---
 
-Email:
-**panabhi8456@gmail.com**
+# 🏆 Highlights
 
-LinkedIn:
-**linkedin.com/in/abhinav-pandey-115974379**
+- 💼 Software Intern @ Etelligens Technologies
+- 🚀 Backend Engineer focused on scalable APIs
+- ⚡ FastAPI • Django • PostgreSQL • Redis
+- 🧠 Currently learning System Design & DevOps
+- 🤖 Building AI-powered backend applications
 
-Portfolio:
-Coming Soon 🚀
+---
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+</p>
+
+<p align="center">
+
+Made with ❤️ by Abhinav Pandey
+
+</p>
