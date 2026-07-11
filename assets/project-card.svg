@@ -24,7 +24,7 @@ font-size="34"
 font-family="Segoe UI"
 font-weight="700">
 
-Healthcare Backend
+🏥 Healthcare Backend
 
 </text>
 
@@ -33,7 +33,7 @@ fill="#94A3B8"
 font-size="18"
 font-family="Segoe UI">
 
-Scalable REST API using Django REST Framework
+Scalable healthcare platform built with Django REST Framework for secure patient, doctor and appointment management.
 
 </text>
 
@@ -42,7 +42,7 @@ fill="#94A3B8"
 font-size="18"
 font-family="Segoe UI">
 
-JWT • PostgreSQL • Pagination • Docker
+Django REST Framework • JWT Authentication • PostgreSQL • Redis • Docker
 
 </text>
 
