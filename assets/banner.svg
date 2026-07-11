@@ -1,32 +1,38 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<rect width="1280" height="320" fill="#09090B"/>
-
 <defs>
 
-<linearGradient id="line" x1="0" y1="0" x2="1280" y2="0">
-
-<stop stop-color="#3B82F6"/>
-
-<stop offset="1" stop-color="#06B6D4"/>
-
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320">
+<stop stop-color="#09090B"/>
+<stop offset="1" stop-color="#111827"/>
 </linearGradient>
+
+<linearGradient id="line" x1="0" y1="0" x2="1280" y2="0">
+<stop stop-color="#3B82F6"/>
+<stop offset="1" stop-color="#06B6D4"/>
+</linearGradient>
+
+<filter id="blur">
+<feGaussianBlur stdDeviation="80"/>
+</filter>
 
 </defs>
 
-<line x1="90" y1="70" x2="1190" y2="70"
-stroke="url(#line)"
-stroke-width="2"/>
+<rect width="1280" height="320" fill="url(#bg)"/>
 
-<line x1="90" y1="250" x2="1190" y2="250"
-stroke="url(#line)"
-stroke-width="2"/>
+<circle cx="170" cy="80" r="120" fill="#2563EB" opacity="0.18" filter="url(#blur)"/>
+
+<circle cx="1100" cy="250" r="160" fill="#06B6D4" opacity="0.12" filter="url(#blur)"/>
+
+<line x1="90" y1="60" x2="1190" y2="60" stroke="url(#line)" stroke-width="2"/>
+
+<line x1="90" y1="260" x2="1190" y2="260" stroke="url(#line)" stroke-width="2"/>
 
 <text
 x="640"
 y="140"
 fill="white"
-font-size="46"
+font-size="54"
 font-family="Segoe UI"
 font-weight="700"
 text-anchor="middle">
@@ -39,7 +45,7 @@ ABHINAV PANDEY
 x="640"
 y="180"
 fill="#60A5FA"
-font-size="24"
+font-size="26"
 font-family="Segoe UI"
 text-anchor="middle">
 
@@ -55,7 +61,7 @@ font-size="18"
 font-family="Segoe UI"
 text-anchor="middle">
 
-Building Scalable APIs • Distributed Systems • AI Applications
+Building Reliable Backend Systems • APIs • Distributed Systems
 
 </text>
 
