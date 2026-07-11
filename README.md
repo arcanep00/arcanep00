@@ -134,8 +134,6 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ---
 
----
-
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b><br><br>
   If you like my work, consider starring my repositories and connecting with me.
