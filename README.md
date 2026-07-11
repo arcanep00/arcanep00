@@ -86,10 +86,6 @@ Git • GitHub • Docker • Postman
 
 ---
 
----
-
----
-
 <p align="center">
 
 Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Design
