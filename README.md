@@ -86,6 +86,16 @@ Git • GitHub • Docker • Postman
 
 ---
 
+# 🤝 Connect With Me
+
+📧 **Email:** panabhi8456@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/abhinav-pandey-115974379
+
+💻 **GitHub:** https://github.com/arcanep00
+
+🌐 **Portfolio:** Coming Soon 🚀
+
 <p align="center">
 
 Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Design
