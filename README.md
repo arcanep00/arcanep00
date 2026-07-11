@@ -131,3 +131,12 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 <img src="https://raw.githubusercontent.com/arcanep00/arcanep00/main/github-metrics.svg"/>
 
 </p>
+
+---
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b><br><br>
+  If you like my work, consider starring my repositories and connecting with me.
+</p>
