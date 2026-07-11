@@ -1,14 +1,28 @@
-<h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
+<h1 align="center">
+  Abhinav Pandey
+</h1>
 
 <h3 align="center">
-Backend Engineer • Python Developer • API Builder
+Backend Engineer
 </h3>
 
 <p align="center">
-Building scalable backend systems, REST APIs, distributed applications, and AI-powered solutions.
+Building Scalable APIs • Distributed Systems • AI-Powered Backend Applications
+</p>
+
+<p align="center">
+Software Intern @ Etelligens Technologies
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+Developer;Building+Scalable+APIs;FastAPI+%7C+Django+%7C+PostgreSQL;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arcanep00&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
+</p>
 
 ## 👨‍💻 About Me
 
