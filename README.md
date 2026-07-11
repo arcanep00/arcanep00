@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=arcanep00&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+</p>
+
+<p align="center">
 
 <img src="./assets/terminal.svg" width="100%" />
 
