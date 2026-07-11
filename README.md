@@ -21,7 +21,7 @@ Software Intern @ Etelligens Technologies
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arcanep00&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=true&width=850&lines=Backend+Engineer;Python+Developer;Building+Scalable+APIs;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Redis;Always+Learning+Something+New" />
 </p>
 
 ## 👨‍💻 About Me
@@ -69,6 +69,13 @@ FastAPI backend for transaction ingestion, anomaly detection and reporting.
 AI-powered local service marketplace.
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanep00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanep00&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ## 📫 Connect With Me
 
