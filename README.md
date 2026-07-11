@@ -4,26 +4,10 @@
 
 </p>
 
-<h1 align="center">
-  Abhinav Pandey
-</h1>
-
-<h3 align="center">
-Backend Engineer
-</h3>
-
-<p align="center">
-Building Scalable APIs • Distributed Systems • AI-Powered Backend Applications
-</p>
-
-<p align="center">
-Software Intern @ Etelligens Technologies
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+Developer;Building+Scalable+APIs;FastAPI+%7C+Django+%7C+PostgreSQL;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;FastAPI+•+Django+•+PostgreSQL;Redis+•+Docker+•+System+Design;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
