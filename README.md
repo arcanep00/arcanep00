@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;FastAPI+%7C+Django+%7C+PostgreSQL;Redis+%7C+Docker+%7C+System+Design;Always+Learning.+Always+Building." />
+
+<img src="./assets/terminal.svg" width="100%" />
+
 </p>
 
 ## 👨‍💻 About Me
