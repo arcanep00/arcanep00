@@ -40,19 +40,13 @@ Git • GitHub • Docker • Postman
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
-### 🏥 Healthcare Backend
+<p align="center">
 
-REST API built with Django REST Framework, PostgreSQL and JWT Authentication.
+<img src="./assets/project-card.svg" width="100%" />
 
-### 📊 Transaction Intelligence API
-
-FastAPI backend for transaction ingestion, anomaly detection and reporting.
-
-### 🛒 ServiQ Marketplace
-
-AI-powered local service marketplace.
+</p>
 
 ---
 
