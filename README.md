@@ -4,6 +4,10 @@
 
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Reliable+Backend+Systems;FastAPI+•+Django+•+PostgreSQL;Redis+•+Docker+•+System+Design;Always+Learning.+Always+Building." />
+</p>
+
 ---
 
 <p align="center">
@@ -59,16 +63,6 @@ FastAPI backend for transaction ingestion, anomaly detection and reporting.
 AI-powered local service marketplace.
 
 ---
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanep00&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanep00&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ## 📫 Connect With Me
 
