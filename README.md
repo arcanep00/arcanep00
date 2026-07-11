@@ -40,7 +40,7 @@ Git • GitHub • Docker • Postman
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
 <p align="center">
 
@@ -49,6 +49,12 @@ Git • GitHub • Docker • Postman
 </p>
 
 ---
+
+<p align="center">
+
+<img src="./assets/transaction-card.svg" width="100%" />
+
+</p>
 
 ## 📫 Connect With Me
 
