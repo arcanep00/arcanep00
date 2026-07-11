@@ -94,7 +94,9 @@ Git • GitHub • Docker • Postman
 
 💻 **GitHub:** https://github.com/arcanep00
 
-🌐 **Portfolio:** Coming Soon 🚀
+🌐 **Portfolio:** https://my-portfolio-mu-amber-43.vercel.app/
+
+---
 
 <p align="center">
 
