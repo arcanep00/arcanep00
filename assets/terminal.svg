@@ -1,0 +1,26 @@
+<svg width="1280" height="120" viewBox="0 0 1280 120" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1280" height="120" rx="12" fill="#111827"/>
+
+<circle cx="30" cy="24" r="6" fill="#EF4444"/>
+<circle cx="50" cy="24" r="6" fill="#F59E0B"/>
+<circle cx="70" cy="24" r="6" fill="#22C55E"/>
+
+<text
+x="30"
+y="70"
+fill="#3B82F6"
+font-size="24"
+font-family="JetBrains Mono">
+
+> Building Reliable Backend Systems_
+
+</text>
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</svg>
