@@ -5,17 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Reliable+Backend+Systems;FastAPI+•+Django+•+PostgreSQL;Redis+•+Docker+•+System+Design;Always+Learning.+Always+Building." />
-</p>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1300&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;FastAPI+•+Django+•+PostgreSQL;Redis+•+Docker+•+System+Design;Always+Learning.+Always+Building." />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+APIs;FastAPI+%7C+Django+%7C+PostgreSQL;Redis+%7C+Docker+%7C+System+Design;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Reliable+Backend+Systems;FastAPI+%7C+Django+%7C+PostgreSQL;Redis+%7C+Docker+%7C+System+Design;Always+Learning.+Always+Building." />
 </p>
 
 ## 👨‍💻 About Me
