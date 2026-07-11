@@ -31,5 +31,3 @@ jobs:
           plugin_followup: yes
 
           plugin_stars: yes
-
-          plugin_achievements: yes
