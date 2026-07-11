@@ -21,7 +21,7 @@ Software Intern @ Etelligens Technologies
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=true&width=850&lines=Backend+Engineer;Python+Developer;Building+Scalable+APIs;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Redis;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+APIs;FastAPI+%7C+Django+%7C+PostgreSQL;Redis+%7C+Docker+%7C+System+Design;Always+Learning+New+Things" />
 </p>
 
 ## 👨‍💻 About Me
@@ -72,9 +72,12 @@ AI-powered local service marketplace.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanep00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanep00&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanep00&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanep00&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
