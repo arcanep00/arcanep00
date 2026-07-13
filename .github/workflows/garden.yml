@@ -2,10 +2,8 @@ name: Update Stat Garden
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # roz raat 12 baje UTC pe update
-  workflow_dispatch:        # manually bhi trigger kar sakte ho
-  push:
-    branches: [ main ]
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,14 +11,17 @@ permissions:
 jobs:
   update-garden:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install requests
@@ -31,8 +32,19 @@ jobs:
           GH_USERNAME: arcanep00
         run: python scripts/generate_garden.py
 
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🌷 Update stat garden"
-          file_pattern: garden.svg
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add garden.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "🌷 Update stat garden"
+
+          git pull --rebase origin main
+          git push origin main
