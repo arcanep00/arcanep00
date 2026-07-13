@@ -70,6 +70,8 @@ Git • GitHub • Docker • Postman
 
 ---
 
+> 🌊 A flowing visualization of my GitHub activity over the past year. The river becomes wider and brighter as my contributions increase.
+> 
 ### 🌊 My Contribution River
 ![River](./river.svg)
 
