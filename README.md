@@ -117,13 +117,8 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ---
 
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/arcanep00/arcanep00/main/github-metrics.svg"/>
-
-</p>
+### 🌷 My Stat Garden
+![Garden](./garden.svg)
 
 ---
 
