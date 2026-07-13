@@ -70,9 +70,9 @@ Git • GitHub • Docker • Postman
 
 ---
 
-> 🌊 A flowing visualization of my GitHub activity over the past year. The river becomes wider and brighter as my contributions increase.
-> 
-### 🔀 Data Pipeline
+## 🔀 Data Pipeline
+> Daily commits flowing through the pipeline — bigger packets mean heavier activity that day.
+
 ![Pipeline](./pipeline.svg)
 
 ---
@@ -107,16 +107,16 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ---
 
-### 🖥️ Server Rack
-![Rack](./rack.svg)
+## 🖥️ Server Rack
+> Each unit represents a week of contributions — the brighter it glows, the busier that week was.
 
-<p align="center">
-  <i>🌱 Growing with every commit.</i>
-</p>
+![Rack](./rack.svg)
 
 ---
 
-### 📊 System Dashboard
+## ⚙️ System Dashboard
+> Real-time snapshot of my GitHub activity, service by service.
+
 ![Dashboard](./dashboard.svg)
 
 ---
