@@ -72,8 +72,8 @@ Git • GitHub • Docker • Postman
 
 > 🌊 A flowing visualization of my GitHub activity over the past year. The river becomes wider and brighter as my contributions increase.
 > 
-### 🌊 My Contribution River
-![River](./river.svg)
+### 🔀 Data Pipeline
+![Pipeline](./pipeline.svg)
 
 ---
 
@@ -107,9 +107,8 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ---
 
-## 🌳 My Contribution Bonsai
-
-![Bonsai](./bonsai.svg)
+### 🖥️ Server Rack
+![Rack](./rack.svg)
 
 <p align="center">
   <i>🌱 Growing with every commit.</i>
@@ -117,8 +116,8 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ---
 
-### 🌷 My Stat Garden
-![Garden](./garden.svg)
+### 📊 System Dashboard
+![Dashboard](./dashboard.svg)
 
 ---
 
