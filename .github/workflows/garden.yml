@@ -1,0 +1,38 @@
+name: Update Stat Garden
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # roz raat 12 baje UTC pe update
+  workflow_dispatch:        # manually bhi trigger kar sakte ho
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-garden:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate garden.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: arcanep00
+        run: python scripts/generate_garden.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🌷 Update stat garden"
+          file_pattern: garden.svg
