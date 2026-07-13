@@ -60,6 +60,8 @@ Git • GitHub • Docker • Postman
 
 </p>
 
+---
+
 <p align="center">
 
 <img src="./assets/serviq-card.svg" width="100%" />
