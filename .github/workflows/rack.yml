@@ -1,0 +1,30 @@
+name: Update Server Rack
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-rack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - name: Generate rack.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: arcanep00
+        run: python scripts/generate_rack.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🖥️ Update server rack"
+          file_pattern: rack.svg
