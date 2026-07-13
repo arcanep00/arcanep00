@@ -78,8 +78,6 @@ Git • GitHub • Docker • Postman
 
 ---
 
----
-
 # 🏆 Highlights
 
 - 💼 Software Intern @ Etelligens Technologies
@@ -110,13 +108,13 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ---
 
----
-
 ## 🌳 My Contribution Bonsai
 
 ![Bonsai](./bonsai.svg)
 
----
+<p align="center">
+  <i>🌱 Growing with every commit.</i>
+</p>
 
 ---
 
