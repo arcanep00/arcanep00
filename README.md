@@ -112,6 +112,8 @@ Backend Engineer • Python • FastAPI • Django • PostgreSQL • System Des
 
 ![Rack](./rack.svg)
 
+> ⚡ Building systems, one commit at a time.
+
 ---
 
 ## ⚙️ System Dashboard
