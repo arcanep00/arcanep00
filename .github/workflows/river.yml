@@ -2,10 +2,8 @@ name: Update Contribution River
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # roz raat 12 baje UTC pe update
-  workflow_dispatch:        # manually bhi trigger kar sakte ho
-  push:
-    branches: [ main ]
+    - cron: "0 0 * * *"   # Daily at 00:00 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,26 +11,42 @@ permissions:
 jobs:
   update-river:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install requests
 
       - name: Generate river.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: arcanep00
-        run: python scripts/generate_river.py
+        run: |
+          python scripts/generate_river.py
 
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "🌊 Update contribution river"
-          file_pattern: river.svg
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add river.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "🌊 Update contribution river"
+
+          git pull --rebase origin main
+          git push origin main
