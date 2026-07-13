@@ -70,13 +70,8 @@ Git • GitHub • Docker • Postman
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arcanep00&theme=tokyo-night&hide_border=true"/>
-
-</p>
+### 🌊 My Contribution River
+![River](./river.svg)
 
 ---
 
