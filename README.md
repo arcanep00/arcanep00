@@ -1,90 +1,34 @@
-<h1 align="center">Hi, I'm Abhinav Pandey 👋</h1>
+# Hey There 👋
 
-<p align="center">
-  <b>Backend Developer • Python • FastAPI • Django</b>
-</p>
+I'm Abhinav Pandey, a Computer Science student specializing in AI and a Software Intern at Etelligens Technologies.
 
-<p align="center">
-  Building scalable backend systems, APIs, and AI-powered applications.
-</p>
+I enjoy building backend systems and APIs, mainly with Python. I'm particularly interested in creating scalable and reliable systems and understanding how things work behind the scenes.
 
----
+I'm currently learning more about system design, DevOps, and cloud technologies. Alongside backend development, I'm also exploring AI and how it can be used to build practical applications.
 
-## About Me
+## What I Work With
 
-I'm a Computer Science student specializing in AI and a Software Intern at Etelligens Technologies.
+I primarily work with Python and backend technologies such as Django, Django REST Framework, and FastAPI.
 
-I enjoy building backend systems that are reliable, scalable, and easy to maintain. My primary focus is backend engineering with Python, while I'm currently exploring System Design, DevOps, and Cloud technologies.
+For data and infrastructure, I work with PostgreSQL, Redis, Docker, Git, GitHub, and Postman.
 
-- 💼 Software Intern @ Etelligens Technologies
-- 🎓 B.Tech CSE (AI) — ABES Institute of Technology
-- 🧑‍💻 Backend development with Python
-- 🚀 Building scalable APIs and backend systems
-- 🤖 Interested in AI-powered applications
-- 🌱 Currently learning System Design, DevOps & Cloud
+I'm also comfortable working with Java, JavaScript, and TypeScript.
 
----
+## What I'm Exploring
 
-## Tech Stack
+Right now, I'm focused on improving my understanding of system design, backend architecture, DevOps, and cloud infrastructure.
 
-**Languages**
+I'm also interested in AI-powered applications and exploring ways to combine AI with strong backend systems.
 
-Python • Java • JavaScript • TypeScript
+## Projects
 
-**Backend**
+I enjoy building projects from scratch and learning through the process of solving real problems.
 
-Django • Django REST Framework • FastAPI
+My work includes backend APIs, transaction-based systems, service-oriented applications, and AI-focused applications.
 
-**Databases**
+## Contact
 
-PostgreSQL • Redis
-
-**Tools & Infrastructure**
-
-Git • GitHub • Docker • Postman
-
----
-
-## Featured Projects
-
-### 🚀 Projects
-
-**Transaction System**  
-Backend system focused on handling transactions with a scalable API architecture.
-
-**Serviq**  
-A service-oriented application built with modern backend technologies.
-
-**Other Projects**  
-I regularly build and experiment with backend systems, APIs, automation, and AI-powered applications.
-
----
-
-## What I'm Currently Working On
-
-- Designing scalable backend architectures
-- Learning System Design
-- Exploring DevOps & Cloud
-- Building AI-powered backend applications
-- Improving API performance and reliability
-
----
-
-## Connect With Me
-
-📧 **Email:** panabhi8456@gmail.com
-
-💼 **LinkedIn:**  
-https://linkedin.com/in/abhinav-pandey-115974379
-
-💻 **GitHub:**  
-https://github.com/arcanep00
-
-🌐 **Portfolio:**  
-https://my-portfolio-mu-amber-43.vercel.app/
-
----
-
-<p align="center">
-  <b>Backend Engineer • Python • FastAPI • Django • PostgreSQL</b>
-</p>
+- Email: panabhi8456@gmail.com
+- LinkedIn: https://linkedin.com/in/abhinav-pandey-115974379
+- GitHub: https://github.com/arcanep00
+- Portfolio: https://my-portfolio-mu-amber-43.vercel.app/
