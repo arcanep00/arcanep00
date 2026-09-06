@@ -10,20 +10,36 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-system-dashboard
+  cancel-in-progress: true
+
 jobs:
   update-dashboard:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - run: pip install requests
+
       - name: Generate dashboard.svg
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: arcanep00
         run: python scripts/generate_dashboard.py
+
+      - name: Sync with latest main
+        run: |
+          git fetch origin main
+          git rebase origin/main
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "📊 Update system dashboard"
