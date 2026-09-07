@@ -1,4 +1,4 @@
-# Hey There 👋
+# Hey There 👋                                                                                                 [![FlyTy English 60 WPM (68 WPM · 99% acc)](https://img.shields.io/badge/FlyTy-English%2060%20WPM-CD7F32?style=for-the-badge)](https://www.flyty.in/verify/badge/fc7e86d2-b7a1-433d-b3f4-337764e7d0e8)
 
 I'm **Abhinav Pandey**, a Computer Science student specializing in AI and a Software Intern at Etelligens Technologies.
 
