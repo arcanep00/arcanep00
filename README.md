@@ -12,12 +12,12 @@ I enjoy working on its features, user experience, and the engineering behind it.
 
 ### Tech Stack
 
-Python • Django • Django REST Framework • FastAPI  
-PostgreSQL • Redis • Docker • Git • GitHub
+Python • Django • Django REST Framework • Supabase • React • Vercel • FastAPI  
+PostgreSQL • Redis • Docker • Git • GitHub • Resend • Cloudflare • Google cloud
 
 ### Connect
 
 📧 [Email](mailto:panabhi8456@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/abhinav-pandey-115974379)  
-💻 [GitHub](https://github.com/arcanep00)  
+💻 [Product](https://www.typezara.com/)  
 🌐 [Portfolio](https://my-portfolio-mu-amber-43.vercel.app/)
