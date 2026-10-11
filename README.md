@@ -4,6 +4,12 @@ I'm **Abhinav Pandey**, a Computer Science student specializing in AI and a Soft
 
 I enjoy building backend systems and APIs, mainly with Python. I'm currently focused on learning system design, DevOps, and cloud technologies, while exploring AI-powered applications.
 
+## What I'm Building
+
+TypeZara — A typing platform I built to help people improve their typing speed, accuracy, and overall typing skills.
+
+I enjoy working on its features, user experience, and the engineering behind it.
+
 ### Tech Stack
 
 Python • Django • Django REST Framework • FastAPI  
