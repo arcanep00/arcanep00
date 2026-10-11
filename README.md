@@ -17,7 +17,7 @@ PostgreSQL • Redis • Docker • Git • GitHub • Resend • Cloudflare •
 
 ### Connect
 
+💻 [Product](https://www.typezara.com/)  
 📧 [Email](mailto:panabhi8456@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/abhinav-pandey-115974379)  
-💻 [Product](https://www.typezara.com/)  
 🌐 [Portfolio](https://my-portfolio-mu-amber-43.vercel.app/)
